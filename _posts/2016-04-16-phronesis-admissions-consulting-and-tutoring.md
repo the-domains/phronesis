@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'University admissions experts empowering, coaching and advising students to win full scholarships at top universities in USA & Canada.'
-datePublished: '2016-04-16T17:54:55.514Z'
-dateModified: '2016-04-16T17:50:41.418Z'
+datePublished: '2016-04-16T17:56:32.294Z'
+dateModified: '2016-04-16T17:55:06.507Z'
 title: 'Phronesis : Admissions Consulting and Tutoring'
 author: []
 sourcePath: _posts/2016-04-16-phronesis-admissions-consulting-and-tutoring.md
@@ -33,5 +33,6 @@ University admissions experts empowering, coaching and advising students to win 
 Our goal is to use our knowledge, talents, and skills to make the college admissions process a smooth and rewarding one for you and your family.
 
 We are dedicated to providing comprehensive admissions counseling and tutoring services to students. Phronesis motivates an
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2c6bcf-e8d7-4dfb-82d2-d3aadbe0e16f.jpg)
 
 d empowers students to reach their academic and personal goals while eliminating the stress commonly associated with the admissions process.
