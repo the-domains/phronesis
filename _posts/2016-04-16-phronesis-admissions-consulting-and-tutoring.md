@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'University admissions experts empowering, coaching and advising students to win full scholarships at top universities in USA & Canada.'
-datePublished: '2016-04-18T14:37:29.629Z'
-dateModified: '2016-04-17T10:04:11.784Z'
+datePublished: '2016-04-18T14:37:47.224Z'
+dateModified: '2016-04-18T14:37:40.404Z'
 title: 'Phronesis : Admissions Consulting and Tutoring'
 author: []
 sourcePath: _posts/2016-04-16-phronesis-admissions-consulting-and-tutoring.md
