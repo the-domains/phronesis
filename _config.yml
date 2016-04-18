@@ -1,7 +1,7 @@
 name: Phronesis
 favicon: null
-layout_spectrum: 0.99433
-typography_spectrum: 0.75699
+layout_spectrum: 1
+typography_spectrum: 0.86539
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#d4d4d4'
     - '#619800'
     - '#752300'
-  brandStrength: 0.3473729544784874
+  brandStrength: 0.5
   lightness: 1
   saturation: 0.9073141489643604
   rhythmicContrast: 0.6971726266201586
