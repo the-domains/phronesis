@@ -1,28 +1,40 @@
-name: Phronesis
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.86539
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Phronesis
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9073141489643604
+  brandStrength: 0.5
+  rhythmicContrast: 0.6971726266201586
   brandColors:
     - '#000000'
     - '#1f8be5'
     - '#d4d4d4'
     - '#619800'
     - '#752300'
-  brandStrength: 0.5
   lightness: 1
-  saturation: 0.9073141489643604
-  rhythmicContrast: 0.6971726266201586
-purpose: []
+typography_spectrum: 0.86539
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5354457
+analytics:
+  twitter: null
+  google: null
+  facebook: null
